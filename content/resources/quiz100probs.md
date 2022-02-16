@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/000951d1a7a765b300361cf5a57680af_quiz100probs.pdf
+file: /media/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/000951d1a7a765b300361cf5a57680af_quiz100probs.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz100probs.pdf
 uid: 000951d1-a7a7-65b3-0036-1cf5a57680af

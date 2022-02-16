@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/f113628eb3b0d504c78c99ce8ea794c1_swan4.gif
+file: /media/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/f113628eb3b0d504c78c99ce8ea794c1_swan4.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: swan4.gif
 uid: f113628e-b3b0-d504-c78c-99ce8ea794c1

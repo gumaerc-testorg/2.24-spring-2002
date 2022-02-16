@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 73adbfa0-7dc5-9bb0-11c0-1d7e2c45fceb
 title: Swan Sample 11
 uid: 2cb0ded4-5588-71c3-9ecf-7898890ac2ec

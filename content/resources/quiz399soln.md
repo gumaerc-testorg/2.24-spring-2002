@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Quiz 3 1999 Solutions
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/ddd79f0e23814feb679075d760f7d76e_quiz399soln.pdf
+file: /media/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/ddd79f0e23814feb679075d760f7d76e_quiz399soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz399soln.pdf
 uid: ddd79f0e-2381-4feb-6790-75d760f7d76e
