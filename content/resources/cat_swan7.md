@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 73adbfa0-7dc5-9bb0-11c0-1d7e2c45fceb
 resourcetype: Image
 title: cat_swan7.gif
 uid: e062a3cf-dafb-195c-4f6f-e3a4950c3eea

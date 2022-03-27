@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ca5422ec-28de-399b-f48f-7a821defd776
 resourcetype: Document
 title: quiz300probs.pdf
 uid: 7fb0da62-10f6-f18d-cfda-70e4de8204f4

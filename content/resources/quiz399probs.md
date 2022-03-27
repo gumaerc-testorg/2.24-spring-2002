@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ca5422ec-28de-399b-f48f-7a821defd776
 resourcetype: Document
 title: quiz399probs.pdf
 uid: d9411776-a20c-b731-2438-1f1b888386f9

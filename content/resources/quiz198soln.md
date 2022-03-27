@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ca5422ec-28de-399b-f48f-7a821defd776
 resourcetype: Document
 title: quiz198soln.pdf
 uid: 221ee904-bb50-38a8-7aa3-e9dc2c4491a0

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ca5422ec-28de-399b-f48f-7a821defd776
 resourcetype: Document
 title: quiz301probs.pdf
 uid: 92ac4028-c016-89ef-7752-1b3dddf0e715

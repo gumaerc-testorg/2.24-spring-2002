@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2d25aa5b-4267-7b7d-350c-a28defe81c67
 resourcetype: Document
 title: pset699probs.pdf
 uid: 1d85681e-b58a-fa29-2999-5bdaa23659c6

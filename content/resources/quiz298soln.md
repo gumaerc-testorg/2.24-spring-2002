@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ca5422ec-28de-399b-f48f-7a821defd776
 resourcetype: Document
 title: quiz298soln.pdf
 uid: 7f12b8d8-7053-3f12-a6fd-bcd41d650140
