@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/676de80bc1228209b3c042330632b2b7_cat_swan10.gif
+file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/676de80bc1228209b3c042330632b2b7_cat_swan10.gif
 file_type: image/gif
 image_metadata:
   caption: ''

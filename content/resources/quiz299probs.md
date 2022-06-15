@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/1aeafc33292fe6b39c80db2cea83b7a2_quiz299probs.pdf
+file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/1aeafc33292fe6b39c80db2cea83b7a2_quiz299probs.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
