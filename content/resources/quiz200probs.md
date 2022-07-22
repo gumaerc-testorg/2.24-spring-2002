@@ -5,6 +5,7 @@ file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-system
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz200probs.pdf
 uid: 5d8d7863-d3d0-ab45-a017-6a012f884116
 ---
 Quiz 2 2000
-

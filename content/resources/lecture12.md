@@ -5,6 +5,7 @@ file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-system
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture12.pdf
 uid: 6d9b2461-54a7-cacc-63dc-28771e5d4377
 ---
 Wave Scattering By A Vertical Circular Cylinder
-

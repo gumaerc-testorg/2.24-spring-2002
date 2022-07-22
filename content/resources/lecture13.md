@@ -5,6 +5,7 @@ file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-system
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture13.pdf
 uid: f1f60149-fff5-d6cf-2194-12e72f697109
 ---
 Forward-Speed Ship Wave Flows
-

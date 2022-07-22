@@ -5,6 +5,7 @@ file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-system
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture9.pdf
 uid: f500bf01-2ed6-4ef2-cb8e-6d6f45a21bfd
 ---
 Linear Wave-Body Interaction
-

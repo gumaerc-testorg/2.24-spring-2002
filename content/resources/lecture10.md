@@ -6,6 +6,7 @@ file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-system
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture10.pdf
 uid: 3f5cfdb4-592d-65eb-cbdf-9c09c688d042
 ---
 Added-Mass, Damping Coefficients And Exciting Forces; Exciting Forces and Hydrodynamic Coefficients
-
