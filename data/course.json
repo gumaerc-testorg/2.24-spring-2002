@@ -62,8 +62,11 @@
     "website": "2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets",
+    "Exams with Solutions"
   ],
-  "site_uid": "babd22f4-5b9a-4a8e-a9a5-503ebfea8b40",
+  "site_uid": "77bc8277-b0a5-4159-bfd7-ed57ee92fbea",
+  "site_short_id": "2.24-spring-2002",
   "title": "Course Metadata"
 }
