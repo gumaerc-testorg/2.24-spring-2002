@@ -2,6 +2,7 @@
 content_type: resource
 description: Rankine Intergral Equations For Ship Flows
 file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/720474b2942f4a0def2baaffb7dc7299_lecture19.pdf
+file_size: 174565
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
