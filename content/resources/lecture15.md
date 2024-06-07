@@ -2,6 +2,7 @@
 content_type: resource
 description: Ship Roll-Sway-Yaw Motions
 file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/5c9002468a76a9eab41a722cceb212d6_lecture15.pdf
+file_size: 137838
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

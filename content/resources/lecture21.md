@@ -2,6 +2,7 @@
 content_type: resource
 description: Wave Drift Forces
 file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/1ff238582590594e978d9c64746834b5_lecture21.pdf
+file_size: 524256
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
