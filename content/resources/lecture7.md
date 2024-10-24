@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Translating Coordinate Systems
-file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/599e0819927156ae11f0aa37c67b6ced_lecture7.pdf
+file: /ol-ocw-studio-app/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/599e0819927156ae11f0aa37c67b6ced_lecture7.pdf
 file_size: 135468
 file_type: application/pdf
 learning_resource_types:
