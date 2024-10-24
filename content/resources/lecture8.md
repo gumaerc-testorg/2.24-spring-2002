@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Ship Kelvin Wake
-file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/8b00ede941442c276e82e21ac5af83ea_lecture8.pdf
+file: /ol-ocw-studio-app/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/8b00ede941442c276e82e21ac5af83ea_lecture8.pdf
 file_size: 223201
 file_type: application/pdf
 learning_resource_types:

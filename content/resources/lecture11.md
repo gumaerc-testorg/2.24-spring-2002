@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Long Wavelength Approximations
-file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/dd1269e37f3d1e6e28bea62a791d651c_lecture11.pdf
+file: /ol-ocw-studio-app/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/dd1269e37f3d1e6e28bea62a791d651c_lecture11.pdf
 file_size: 273218
 file_type: application/pdf
 learning_resource_types:
