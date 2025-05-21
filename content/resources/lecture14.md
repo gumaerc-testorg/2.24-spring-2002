@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strip Theory Of Ship Motions. Heave & Pitch
-file: /ol-ocw-studio-app/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/0a95120d799d88a677c2f1f5a1af64fc_lecture14.pdf
+file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/0a95120d799d88a677c2f1f5a1af64fc_lecture14.pdf
 file_size: 720787
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz 2 1998 Solutions
-file: /ol-ocw-studio-app/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/7f12b8d870533f12a6fdbcd41d650140_quiz298soln.pdf
+file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/7f12b8d870533f12a6fdbcd41d650140_quiz298soln.pdf
 file_size: 361776
 file_type: application/pdf
 learning_resource_types:
