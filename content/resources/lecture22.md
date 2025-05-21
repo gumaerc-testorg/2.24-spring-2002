@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Second-Order Wave Theory
-file: /ol-ocw-studio-app/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/2d99ee6e9e2642240744c6799f5f427e_lecture22.pdf
+file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/2d99ee6e9e2642240744c6799f5f427e_lecture22.pdf
 file_size: 550620
 file_type: application/pdf
 learning_resource_types:

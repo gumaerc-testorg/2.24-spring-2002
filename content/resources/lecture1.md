@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Conservation Laws And Boundary Conditions
-file: /ol-ocw-studio-app/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/5bc08b77064e9ed9e8a54aac80f3440c_lecture1.pdf
+file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/5bc08b77064e9ed9e8a54aac80f3440c_lecture1.pdf
 file_size: 273720
 file_type: application/pdf
 learning_resource_types:

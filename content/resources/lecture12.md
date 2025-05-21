@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Wave Scattering By A Vertical Circular Cylinder
-file: /ol-ocw-studio-app/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/6d9b246154a7cacc63dc28771e5d4377_lecture12.pdf
+file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/6d9b246154a7cacc63dc28771e5d4377_lecture12.pdf
 file_size: 125220
 file_type: application/pdf
 learning_resource_types:
