@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Panel Methods
-file: /ol-ocw-studio-app/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/6e7094dc268ba6e788dbe731303c3a12_lecture20.pdf
+file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/6e7094dc268ba6e788dbe731303c3a12_lecture20.pdf
 file_size: 122418
 file_type: application/pdf
 learning_resource_types:
