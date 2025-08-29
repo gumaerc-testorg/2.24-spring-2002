@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Wavemaker Theory
-file: /courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/1a79d1020277543acabf6fb898a23236_lecture6.pdf
+file: /ol-ocw-studio-app/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/1a79d1020277543acabf6fb898a23236_lecture6.pdf
 file_size: 253780
 file_type: application/pdf
 learning_resource_types:
